@@ -3,3 +3,9 @@ pypinyin
 openai
 WeTextProcessing
 transformers==4.42.4
+omegaconf
+vocos
+vector_quantize_pytorch
+gradio
+jieba
+python-dotenv
